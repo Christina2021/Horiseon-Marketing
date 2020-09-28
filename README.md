@@ -1,2 +1,2 @@
 # Horiseon-Marketing
-Landing page for Horiseon Marketing agency.
+<UPDATE> Landing page for Horiseon marketing agency.
