@@ -96,15 +96,15 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-.benefit-info {
+.benefits-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-info h3 {
+.benefits-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-.benefit-info img {
+.benefits-info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
